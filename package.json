@@ -59,5 +59,9 @@
   },
   "overrides": {
     "follow-redirects": "^1.15.4"
+  },
+  "engines": {
+    "node": ">=18.19.1",
+    "npm": ">=10.9.0"
   }
 }
